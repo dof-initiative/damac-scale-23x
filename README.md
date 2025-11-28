@@ -6,3 +6,5 @@ Repo contents
 
 - 01-storyboard/
   Presentation planning and outline
+- 02-abstract/
+  Session proposal abstract(s) and related content 
