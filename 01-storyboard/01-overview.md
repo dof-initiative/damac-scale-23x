@@ -30,8 +30,8 @@ This Is the Way... To Document Open Source
 
 # Topics
 
-1. Innovative Workflow: Docs-as-Models-as-Code Approach
+1. Successful Deployment: Demonstrated Success of OSE's D3D
 
-2. Successful Deployment: Demonstrated Success of OSE's D3D
+2. Innovative Workflow: Docs-as-Models-as-Code Approach
 
 3. Novel Tools: DOF Initiative Roadmap
