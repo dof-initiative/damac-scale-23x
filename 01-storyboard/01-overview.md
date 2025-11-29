@@ -3,7 +3,13 @@
 SCALE 23x <u>Applied Science</u> track attendees.  [SCALE 23x invites presenters](https://www.socallinuxexpo.org/scale/23x/cfp) to "share your work on FOSS programs and open hardware projects with the rest of the community, as well as exchange ideas with some leading experts in these fields."  From the CFP page, the <u>Applied Science</u> track covers:
 
 ```
-Open source is powering a revolution in scientific fields. This track explores the practical application of open source software and hardware in research, data analysis, and engineering. Presentations should detail successful deployments, novel tools, and innovative workflows; whether analyzing terabytes of data, building custom instrumentation, or pushing the boundaries of discovery.
+Open source is powering a revolution in scientific fields. 
+This track explores the practical application of open source 
+software and hardware in research, data analysis, and 
+engineering. Presentations should detail successful 
+deployments, novel tools, and innovative workflows; whether 
+analyzing terabytes of data, building custom instrumentation, 
+or pushing the boundaries of discovery.
 ```
 
 By presenting on the *Docs-as-Models-as-Code* (DAMAC) approach, we can cover all three presentation goals:
