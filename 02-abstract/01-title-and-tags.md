@@ -18,5 +18,3 @@ Applied Science
 # Session Level
 
 Select one from [Advanced, Beginner, Developer, **Everyone**, Intermediate]
-
-
